@@ -51,8 +51,7 @@ The underlying research records include information associated with:
 
 The study identified approximately:
 
-- **631,728 Moodle standard-log events**
-- **461 learners with complete ILS questionnaire responses**
+- 461 learners with complete ILS questionnaire responses
 - multiple courses and academic periods
 - learner activities recorded across the COVID-19 and early new-normal learning periods
 
@@ -324,7 +323,6 @@ Email: **dewi.rosita@fkip.unmul.ac.id**
 ## Contact
 
 For questions regarding:
-
 - dataset structure;
 - variable definitions;
 - research methodology;
