@@ -1,5 +1,3 @@
-# Moodle Learning Activity and ILS Dataset
-
 ## Overview
 
 This repository contains an anonymized research dataset derived from institutional Moodle learning activities at the **Computer Education Study Program, Faculty of Teacher Training and Education (FKIP), Universitas Mulawarman, Indonesia**.
