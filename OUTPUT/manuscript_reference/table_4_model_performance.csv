@@ -1,0 +1,5 @@
+model,validation_mae,test_mae,test_mae_ci_low,test_mae_ci_high,test_rmse
+Training mean,14.266,13.399,12.785,14.051,16.413
+Prior-quiz mean,13.82,13.499,12.815,14.217,16.469
+"Readiness, lambda=0.1",13.899,14.182,13.435,14.9,17.282
+"Readiness + ILS, lambda=1",13.913,13.889,13.211,14.575,16.955

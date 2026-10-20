@@ -1,0 +1,5 @@
+dimension,n_learners,mean_score,min_score,max_score,mild_abs_1_or_3_count
+Active-reflective,461,2.1626898047722345,-11.0,11.0,312
+Sensing-intuitive,461,1.3644251626898047,-11.0,11.0,297
+Visual-verbal,461,-1.0303687635574836,-11.0,11.0,255
+Sequential-global,461,-3.7245119305856833,-11.0,11.0,222

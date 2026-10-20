@@ -1,0 +1,29 @@
+column,type,description
+learner_id,string/int,Pseudonymous learner identifier
+target_course_id,string/int,Target course identifier
+target_quiz_id,string/int,Target quiz identifier
+target_start_unix,integer,Quiz target start time
+split,string,"train, validation, or test"
+actual_score,float,Observed quiz score normalized to 0-1
+log_count_28d,float,Same-course log count in previous 28 days
+active_days_28d,float,Active days in previous 28 days
+quiz_activity_28d,float,Quiz activity count in previous 28 days
+assignment_activity_28d,float,Assignment activity count in previous 28 days
+material_activity_28d,float,Learning-material activity count in previous 28 days
+forum_activity_28d,float,Forum activity count in previous 28 days
+attendance_activity_28d,float,Attendance activity count in previous 28 days
+days_since_last_activity,float,Elapsed days since last same-course activity
+no_activity_28d,integer,Indicator for no activity in the 28-day window
+prior_quiz_count_all,float,Number of prior quizzes across courses
+prior_quiz_mean_all,float,Mean prior quiz score across courses
+prior_quiz_missing_all,integer,Missing-history indicator for all-course history
+prior_quiz_count_course,float,Number of prior quizzes in target course
+prior_quiz_mean_course,float,Mean prior quiz score in target course
+prior_quiz_missing_course,integer,Missing-history indicator for target-course history
+days_since_course_start,float,Days from course start to target quiz
+days_to_quiz_deadline,float,Time from target start to quiz deadline
+quiz_max_points,float,Maximum possible target quiz points
+ils_active_reflective_score,float,Continuous signed ILS score
+ils_sensing_intuitive_score,float,Continuous signed ILS score
+ils_visual_verbal_score,float,Continuous signed ILS score
+ils_sequential_global_score,float,Continuous signed ILS score

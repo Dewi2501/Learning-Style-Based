@@ -1,0 +1,9 @@
+audit_component,manuscript_value
+CSV tables; all rows,"64; 2,311,204"
+Courses; accounts with student role,149; 584
+Standard logs; learners with logs,"631,728; 565"
+Completed quiz attempts,"27,682"
+First learner-quiz pairs,"21,743"
+Complete ILS responses; learners,461; 461
+Post-ILS quiz targets; learners; courses,"7,612; 418; 82"
+Primary train-validation-test rows,"2,870-728-652"
