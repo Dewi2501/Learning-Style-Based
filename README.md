@@ -22,7 +22,7 @@ OUTPUT/
 
 ## DATA
 
-`compiled_pendikom_moodle_logs.csv` is the primary compiled Moodle dataset used by the experiment scripts. The dataset contains anonymized learner-level behavioral records and ILS-related fields. The study dataset contains 565 unique learners from 50 courses, with complete ILS labels available for 461 learners.
+`compiled_pendikom_moodle_logs.csv` is the primary compiled Moodle dataset used by the experiment scripts. The dataset contains anonymized learner-level behavioral records and ILS-related fields. The study dataset contains 565 unique learners, with complete ILS labels available for 461 learners.
 
 The file is retained in the same row-wrapped CSV representation used in the executed experiment. The Python scripts include the corresponding loader and do not require manual reformatting.
 
