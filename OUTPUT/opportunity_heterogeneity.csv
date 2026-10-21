@@ -1,0 +1,16 @@
+feature,n_unique_across_courses,min,median,max
+course_weeks,20,15.8570436508,16.8570436508,21.8570436508
+content_available,10,2.0,8.5,12.0
+content_stay_reference_seconds,44,144.0,918.25,1630.5
+question_available,4,8.0,24.0,32.0
+assign_available,5,1.0,4.0,5.0
+exercise_stay_reference_seconds,46,684.0,2735.625,4080.75
+overview_stay_reference_seconds,26,152.0,736.0,1242.0
+ques_detail_available,4,2.0,6.0,8.0
+ques_overview_available,4,1.0,3.0,4.0
+ques_facts_available,7,2.0,4.0,8.0
+ques_concepts_available,6,1.0,4.0,6.0
+ques_graphics_available,4,1.0,3.0,4.0
+ques_text_available,4,7.0,21.0,28.0
+ques_interpret_available,4,1.0,3.0,4.0
+ques_develop_available,4,1.0,3.0,4.0

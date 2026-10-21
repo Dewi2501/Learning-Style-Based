@@ -1,0 +1,12 @@
+Characteristic,Value
+Rows,565.0
+Logical columns,118.0
+Unique learners,565.0
+Unique courses,50.0
+Learners with complete ILS,461.0
+Learners without ILS,104.0
+Duplicate rows,0.0
+Duplicate user-course pairs,0.0
+Median labeled learners/course,4.0
+Min labeled learners/course,1.0
+Max labeled learners/course,63.0

@@ -1,0 +1,32 @@
+file,category,description
+clean_features_raw.csv,processed_data,Clean behavioral feature matrix used for supplementary leakage-resistant checks.
+feature_list_raw.csv,features,List of raw behavioral predictors.
+feature_list_opportunity.csv,features,Raw predictors plus opportunity-aware engineered predictors.
+fold_assignments.csv,validation,Learner/course assignments for random and course-disjoint folds.
+baseline_fold_metrics.csv,results,Per-fold conventional ML metrics.
+baseline_predictions.csv,predictions,Out-of-fold baseline predictions and probabilities.
+course_eta_squared.csv,heterogeneity,Course effect-size diagnostics for behavioral features.
+course_identity_diagnostic.csv,heterogeneity,Diagnostic course-ID classification performance.
+opportunity_heterogeneity.csv,heterogeneity,Cross-course variation in activity/opportunity variables.
+neural_dg_fold_metrics.csv,results,Per-fold ERM/domain-generalization neural metrics.
+neural_dg_predictions.csv,predictions,Out-of-fold neural ERM/DG predictions.
+neural_latent_test.csv,representations,Saved latent representation diagnostics.
+domain_invariance_diagnostic.csv,diagnostic,"Course predictability from original, ERM, and DG representations."
+statistical_comparisons.csv,statistics,Paired statistical comparisons between principal models.
+error_by_activity.csv,error_analysis,Error analysis stratified by learner activity.
+error_by_course_size.csv,error_analysis,Error analysis stratified by course size.
+error_by_ils_strength.csv,error_analysis,Error analysis stratified by ILS preference strength.
+leakage_resistant_baseline.csv,sensitivity,Conservative feature-set baseline / leakage-sensitivity results.
+table_A_dataset_audit.csv,manuscript_table,Table A: dataset audit.
+table_B_course_sizes.csv,manuscript_table,Table B: course sizes.
+table_C_ils_distribution.csv,manuscript_table,Table C: ILS target distributions.
+table_D_course_heterogeneity_top_features.csv,manuscript_table,Table D: strongest course heterogeneity features.
+table_E_random_vs_course_disjoint.csv,manuscript_table,Table E: random vs course-disjoint performance.
+table_F_unseen_course_baselines.csv,manuscript_table,Table F: unseen-course baseline results.
+table_G_ERM_vs_DG.csv,manuscript_table,Table G: ERM versus DG.
+table_H_ablation.csv,manuscript_table,Table H: ablation results.
+table_I_dimensionwise.csv,manuscript_table,Table I: dimension-wise performance.
+table_J_cross_course_group_robustness.csv,manuscript_table,Table J: cross-course robustness.
+table_K_statistical_comparisons.csv,manuscript_table,Table K: statistical comparisons.
+table_L_domain_invariance_diagnostic.csv,manuscript_table,Table L: domain-invariance diagnostic.
+table_M_leakage_sensitivity.csv,manuscript_table,Table M: leakage/feature sensitivity.

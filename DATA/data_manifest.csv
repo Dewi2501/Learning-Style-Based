@@ -1,0 +1,2 @@
+file,role,description
+compiled_pendikom_moodle_logs.csv,primary_input,"Anonymized compiled Moodle behavioral records with ILS fields; 565 learners across 50 courses, including 461 learners with complete ILS labels."
