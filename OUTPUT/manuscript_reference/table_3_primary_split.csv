@@ -1,4 +1,0 @@
-group,period,observations,learners,courses,quizzes
-Training,Feb 2020-May 2021,2870,235,32,78
-Validation,Sep-Nov 2021,728,94,24,55
-Test,Feb-Apr 2022,652,89,23,38
